@@ -6,6 +6,11 @@ This is a group project submitted for partial fulfilment of Data Mining and Mach
 - Shiuli Subhra Ghosh 
 - Suman Roy 
 
+# Models used
+- Decision Tree Classifier 
+- Random Forest Classifier 
+- Naive Bayes Classifier
+
 # Data Set Resource Link 
 https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
